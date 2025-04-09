@@ -1,36 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Programmatic SEO in Next.js 15: Deep Dive
 
-## Getting Started
+This repository serves as a personal learning project based on the YouTube tutorial "[Programmatic SEO in Next.js 15 - Full Guide](https://www.youtube.com/watch?v=290Ytj96vL4&t=271s&ab_channel=CodinginFlow)". It's a deep dive into implementing effective SEO strategies within a Next.js 15 application.
 
-First, run the development server:
+**Purpose:**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This repository is designed to help me (and potentially others) better understand and implement programmatic SEO techniques in Next.js 15. It follows the tutorial's structure while providing a space for personal experimentation and customization.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Original Tutorial Credits:**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project is inspired by and based on the following YouTube tutorial:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Title:** Programmatic SEO in Next.js 15 - Full Guide
+- **Link:** [https://www.youtube.com/watch?v=290Ytj96vL4&t=271s&ab_channel=CodinginFlow]
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Key Learnings from the Tutorial:**
