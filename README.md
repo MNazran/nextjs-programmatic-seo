@@ -11,6 +11,9 @@ This repository is designed to help me (and potentially others) better understan
 This project is inspired by and based on the following YouTube tutorial:
 
 - **Title:** Programmatic SEO in Next.js 15 - Full Guide
-- [**Channel Link**](https://www.youtube.com/@codinginflow/videos)
+- **Channel:** [**Coding in Flow**](https://www.youtube.com/@codinginflow/videos)
 
 **Key Learnings from the Tutorial:**
+
+* Utilizing dynamic routes to create statically cached page templates for long-tail keywords.
+* Optimizing page metadata for improved search engine visibility.
